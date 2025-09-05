@@ -3,7 +3,7 @@
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cosminpilca&label=Profile%20views&color=0e75b6&style=flat" alt="cosminpilca" /> </p>
 
-- 🔭 I’m currently working on [google-docs-clone-app](https://github.com/CosminPilca/google-docs-clone)
+- 🔭 I’m currently working on [EventPlanner-app](https://github.com/CosminPilca/EventPlanner)
 
 - 🌱 I’m currently learning **React,AI**
 
